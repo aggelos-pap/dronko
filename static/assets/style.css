@@ -1,0 +1,13 @@
+body{
+    background-image: url("backgrounds/redblack.jpg");
+    background-position: center;
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+#game-container{
+    padding-top: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
